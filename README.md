@@ -13,10 +13,11 @@ Designed and developed an interactive Power BI dashboard that delivers insights 
 - Product category breakdown (Indoor, Landscape, Outdoor)
 - Gross Profit % and YTD value tracking
 - Customer segmentation using GP% and sales distribution
+- Drill-down and filter capabilities (by Year, Product Type, and Country)
 
 ---
 
-## Key Business Insights
+## Key Business Insights (2023)
 
 - China recorded the most significant YoY sales decline
 - April emerged as the highest-performing month in terms of YTD sales
